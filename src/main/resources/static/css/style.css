@@ -1,0 +1,81 @@
+body {
+
+    background: url(../img/ecom.jpg) no-repeat center center fixed;
+
+    -webkit-background-size: cover;
+
+    -moz-background-size: cover;
+
+    -o-background-size: cover;
+
+    background-size: cover;
+
+}
+
+
+
+nav{
+
+    background-color: #0bcd2b;
+
+}
+
+
+
+thead{
+
+    background-color: #28cd1e;
+
+}
+
+
+
+.btn,.hairdark{
+
+    background-color: #fff91e;
+
+}
+
+
+
+/*
+.hairdark{
+
+    background-color: #722687;
+
+}
+
+*/
+
+
+.btn:hover{
+
+    background-color: #20cdc9;
+
+}
+
+.color{
+
+    color:white;
+
+}
+.h3{
+    color:black;
+}
+
+.H1{
+
+    color:white;
+
+}
+.h2{
+    color:white;
+}
+.container {
+
+    align-items:  center;
+
+}
+.h1{
+    color:white;
+}
